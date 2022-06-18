@@ -1,0 +1,78 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    display: inline-block;
+}
+#topBar{
+    padding-top: 20px;
+}
+#Alcher{
+    padding-left: 10px;
+    width: 650px;
+}
+#SearchBox{
+    width: 600px;
+}
+#Search{
+    padding: 5px;
+    width: 200px;
+}
+#left{
+    padding: 25px;
+}
+#highlight{
+    background-color: yellow;
+}
+#home{
+    width: 55px;
+    font-weight: 550;
+}
+#about{
+    width: 55px;
+    font-weight: 550;
+}
+#contact{
+    width: 55px;
+    font-weight: 550;
+}
+#TopCenter{
+    text-align: center;
+    font-size: xx-large;    
+}
+#image{
+    width: 500px;
+    text-align: right;
+}
+#home1{
+    text-decoration: none;
+}
+#home1:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+#about1{
+    text-decoration: none;
+}
+#about1:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+#contact1{
+    text-decoration: none;
+}
+#contact1:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+.links:hover{
+    color: darkorange;
+    font-size: larger;
+}
+#backgroudImg{
+    border: solid black 2px;
+}
